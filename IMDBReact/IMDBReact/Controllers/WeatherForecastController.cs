@@ -35,5 +35,11 @@ namespace IMDBReact.Controllers
             })
             .ToArray();
         }
+
+        [Route("test55")]
+        public void test() 
+        {
+
+        }
     }
 }
